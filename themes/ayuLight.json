@@ -1,0 +1,36 @@
+{
+    "colors": {
+      "toolbar": "rgb(247, 249, 250)",
+      "toolbar_text": "rgb(92, 97, 102)",
+      "frame": "rgb(247, 249, 250)",
+      "toolbar_field": "rgb(247, 249, 250)",
+      "toolbar_field_text": "rgb(92, 97, 102)",
+      "popup": "rgb(247, 249, 250)",
+      "popup_text": "rgb(92, 97, 102)",
+      "button_background_active": "rgb(85, 180, 212)",
+      "button_background_hover": "rgb(85, 180, 212)",
+      "frame_inactive": "rgb(247, 249, 250)",
+      "icons_attention": "rgb(255, 255, 255)",
+      "icons": "rgb(92, 97, 102)",
+      "popup_border": "rgb(247, 249, 250)",
+      "popup_highlight_text": "rgb(85, 180, 212)",
+      "popup_highlight": "rgb(85, 180, 212)",
+      "sidebar_text": "rgb(242, 174, 73)",
+      "toolbar_bottom_separator": "rgb(247, 249, 250)",
+      "toolbar_field_border": "rgb(247, 249, 250)",
+      "toolbar_field_highlight_text": "rgb(247, 249, 250)",
+      "toolbar_field_highlight": "rgb(85, 180, 212)",
+      "toolbar_top_separator": "rgb(247, 249, 250)",
+      "toolbar_vertical_separator": "rgb(247, 249, 250)",
+      "tab_line": "#F7F9FA",
+      "tab_loading": "#F7F9FA",
+      "tab_selected": "#F7F9FA",
+      "tab_text": "rgb(242, 174, 73)",
+      "tab_background_text": "rgb(92, 97, 102)",
+      "ntp_text": "#5C6166",
+      
+      "ntp_background": "rgb(247, 249, 250)",
+      "ntp_card_background": "#F7F9FA"
+    }
+  }
+  

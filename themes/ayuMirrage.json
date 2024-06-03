@@ -1,0 +1,28 @@
+{
+    "colors": {
+      "toolbar": "rgb(30, 35, 48)",
+      "toolbar_text": "rgb(255, 203, 101)",
+      "frame": "rgb(30, 35, 48)",
+      "tab_background_text": "rgb(203, 201, 193)",
+      "toolbar_field": "rgb(30, 35, 48)",
+      "toolbar_field_text": "rgb(203, 201, 193)",
+      "tab_line": "rgb(30, 35, 48)",
+      "popup": "rgb(30, 35, 48)",
+      "popup_text": "rgb(203, 201, 193)",
+      "icons": "rgb(203, 201, 193)",
+      "popup_highlight_text": "rgb(30, 35, 48)",
+      "popup_highlight": "rgb(92, 207, 230)",
+      "tab_selected": "rgb(40, 48, 64)",
+      "tab_text": "rgb(203, 201, 193)",
+      "toolbar_bottom_separator": "rgb(30, 35, 48)",
+      "toolbar_field_border": "rgb(30, 35, 48)",
+      "toolbar_field_highlight_text": "rgb(30, 35, 48)",
+      "toolbar_field_highlight": "rgb(92, 207, 230)",
+      "toolbar_top_separator": "rgb(30, 35, 48)",
+      "tab_loading": "rgb(30, 35, 48)",
+
+      "ntp_background": "#1E2330",
+      "ntp_card_background": "#283040"
+    }
+  }
+  
