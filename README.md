@@ -8,7 +8,7 @@ In order to install Fayufox you need to follow a few simple steps:
     - In the searchbar on this page enter `toolkit.legacyUserProfileCustomizations.stylesheets`
     - toggle this setting to `true` on the right
     - (Optional) for a better look of the browser:
-        - toggle `browser.compactmode.show` to true aswell
+        - toggle `browser.compactmode.show` to `true` aswell
 
 - Installing Extension
     - Clone/download this repository
