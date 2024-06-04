@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "1.0",
   "name": "My Extension with Themes",
   "description": "An extension that includes multiple themes and runnable scripts",
@@ -12,17 +12,18 @@
   },
   "permissions": [
     "theme",
-    "<all_urls>",
     "tabs",
     "activeTab"
   ],
+  "host_permissions":[
+    "<all_urls>"
+  ],
   "content_scripts": [
     {
-      "matches": ["*://*.mozilla.org/*"],
-      "js": ["content_scripts/borderify.js"]
+      "matches": ["*://*.mozilla.org/*"]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "popup/popup.html",
     "default_icon": {
       "48": "icons/border-48.png"
